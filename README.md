@@ -1,8 +1,11 @@
 # Length-of-Stay-of-Patients-with-Opioid-Overdose
 
 ## Introduction
-This repository contains the code and data for the paper "A Machine Learning Approach to Predict Length of Stay for Opioid Overdose Admitted Patients". 
+In this work, multiple machine learning algorithms were implemented to process data and predict length of stay (LOS) among admitted patients with opioid overdose.
+
 ## Data
+
+**The Froedtert & The Medical College of Wisconsin** offers anonymous patient data. Patients were anonymized by removing their identifiers and Institutional Review Board approval was received. All dates and times were subjected to random offsets. Data include 9-year time span from March 2012 to June 2020.
 
 ## Publication
 Jiawei Wu, Priyanka Annapureddy, Zach Farahany, Praveen Madiraju. "A Machine Learning Approach to Predict Length of Stay for Opioid Overdose Admitted Patients", **Proceedings of 2021 IEEE International Conference on Big Data (IEEE BigData 2021), Special Session on HealthCare Data**, pp.4790-4797, Dec. 2021, virtual event. (acceptance rate ~ 20%; 97/486) [link](https://ieeexplore.ieee.org/document/9671933)
